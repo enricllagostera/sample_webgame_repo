@@ -1,0 +1,11 @@
+{
+  "name": "sample_webgame_repo",
+  "version": "0.0.1",
+  "description": "A sample repo with a webgame that changes overtime.",
+  "main": "game.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
